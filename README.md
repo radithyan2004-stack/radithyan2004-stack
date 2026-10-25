@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/radithyan2004-stack/radithyan2004-stack/main/assets/banner.svg" width="100%" alt="Black and Gold Luxury Developer Banner" />
 </div>
 
-<h1 align="center" style="font-size: 38px; letter-spacing: 1px; color: #f5d98a; font-family: Georgia, serif;">Radithyan</h1>
+<h1 align="center" style="font-size: 38px; letter-spacing: 1px; color: #f5d98a; font-family: Georgia, serif;">Adithyan</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LUXURY-Black_&_Gold-111111?style=for-the-badge&logo=github&logoColor=f5d98a" />
