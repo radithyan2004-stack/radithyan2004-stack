@@ -1,0 +1,79 @@
+<svg width="1400" height="360" viewBox="0 0 1400 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B14"/>
+      <stop offset="0.5" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="50%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+
+    <linearGradient id="subAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#14B8A6"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="360" fill="url(#bg)"/>
+
+  <g opacity="0.7" filter="url(#glow)">
+    <circle cx="250" cy="90" r="120" fill="#22D3EE">
+      <animate attributeName="cx" values="250;1180;250" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="90;180;90" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="280" r="170" fill="#3B82F6">
+      <animate attributeName="cx" values="980;260;980" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="280;120;280" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1180" cy="80" r="150" fill="#8B5CF6">
+      <animate attributeName="cx" values="1180;1060;1180" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="80;220;80" dur="12s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g opacity="0.35">
+    <path d="M0 300C180 260 250 210 420 220C550 228 620 286 760 282C930 276 1040 180 1180 190C1260 196 1335 220 1400 248V360H0V300Z" fill="#111827"/>
+  </g>
+
+  <rect x="52" y="50" width="1296" height="260" rx="24" fill="rgba(15, 23, 42, 0.65)" stroke="rgba(148, 163, 184, 0.18)"/>
+
+  <g>
+    <text x="88" y="130" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700">Hello, I'm Radithyan</text>
+    <text x="88" y="180" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">Full Stack Developer • Problem Solver • Builder</text>
+
+    <g opacity="0.9">
+      <rect x="88" y="200" width="240" height="8" rx="4" fill="url(#accent)"/>
+      <rect x="340" y="200" width="150" height="8" rx="4" fill="url(#subAccent)"/>
+    </g>
+
+    <g fill="#CBD5E1" font-family="Consolas, monospace" font-size="18">
+      <text x="88" y="250">const skills = ["React", "Node.js", "TypeScript", "Python"];</text>
+      <text x="88" y="280">const passion = "building clean, thoughtful digital experiences";</text>
+    </g>
+  </g>
+
+  <g opacity="0.9" transform="translate(1020 80)">
+    <rect x="0" y="0" width="250" height="150" rx="18" fill="rgba(15, 23, 42, 0.7)" stroke="rgba(148, 163, 184, 0.2)"/>
+    <circle cx="55" cy="52" r="24" fill="url(#accent)"/>
+    <text x="92" y="58" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Status</text>
+    <text x="28" y="110" fill="#34D399" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Available for work</text>
+  </g>
+
+  <g opacity="0.8">
+    <path d="M90 320H1310" stroke="url(#accent)" stroke-width="2" stroke-linecap="round">
+      <animate attributeName="stroke-dasharray" values="0 1220; 400 820; 0 1220" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
