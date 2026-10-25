@@ -1,38 +1,38 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/radithyan2004-stack/radithyan2004-stack/main/assets/banner.svg" width="100%" alt="Black and Gold Luxury Developer Banner" />
+  <img src="https://raw.githubusercontent.com/radithyan2004-stack/radithyan2004-stack/main/assets/banner.svg" width="100%" alt="Premium Black and Gold AI Data Scientist Banner" />
 </div>
 
 <h1 align="center" style="font-size: 38px; letter-spacing: 1px; color: #f5d98a; font-family: Georgia, serif;">Adithyan</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LUXURY-Black_&_Gold-111111?style=for-the-badge&logo=github&logoColor=f5d98a" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20work-0b0b0b?style=for-the-badge&logo=github&logoColor=f5d98a" />
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_Developer-d4af37?style=for-the-badge&logo=react&logoColor=111111" />
+  <img src="https://img.shields.io/badge/AI_&_ML-Data_Scientist-0b0b0b?style=for-the-badge&logo=python&logoColor=f5d98a" />
+  <img src="https://img.shields.io/badge/Big_Data-Hadoop_&_Spark-111111?style=for-the-badge&logo=apache-spark&logoColor=f5d98a" />
+  <img src="https://img.shields.io/badge/Focus-NLP_&_Computer_Vision-d4af37?style=for-the-badge&logo=opencv&logoColor=111111" />
 </p>
 
 <p align="center">
-  <em style="color: #d4af37;">Crafting premium digital experiences with discipline, code, and design.</em>
+  <em style="color: #d4af37;">Turning data into intelligence, insights, and real-world impact.</em>
 </p>
 
 ---
 
 ### About Me
-I build elegant, high-performance products with a focus on quality, clarity, and user experience.
-My work blends frontend design, backend architecture, and product thinking to create tools that feel polished and meaningful.
+I’m a data-driven problem solver focused on analytics, machine learning, and intelligent systems.
+My work spans statistical modeling, AI product development, big data pipelines, and applied research for actionable business outcomes.
 
 ---
 
-### Tech Stack
+### Expertise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-FF7A00?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-Transformers-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ---
@@ -54,10 +54,11 @@ My work blends frontend design, backend architecture, and product thinking to cr
 ---
 
 ### Current Focus
-- Premium product design and UI refinement
-- Scalable frontend architecture
-- Full-stack delivery and performance optimization
-- Turning ideas into polished digital experiences
+- Data analysis and scientific storytelling
+- Machine learning model development
+- Big data engineering with Hadoop and Spark
+- NLP and computer vision research applications
+- AI systems that solve complex real-world problems
 
 ---
 
