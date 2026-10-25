@@ -1,24 +1,24 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/radithyan2004-stack/radithyan2004-stack/main/assets/banner.svg" width="100%" alt="Premium Developer Banner" />
+  <img src="https://raw.githubusercontent.com/radithyan2004-stack/radithyan2004-stack/main/assets/banner.svg" width="100%" alt="Black and Gold Luxury Developer Banner" />
 </div>
 
-<h1 align="center" style="font-size: 36px; letter-spacing: 1px;">Hi, I'm Radithyan <span>👋</span></h1>
+<h1 align="center" style="font-size: 38px; letter-spacing: 1px; color: #f5d98a; font-family: Georgia, serif;">Radithyan</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20work-00C853?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FF9800?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Worldwide-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/LUXURY-Black_&_Gold-111111?style=for-the-badge&logo=github&logoColor=f5d98a" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20work-0b0b0b?style=for-the-badge&logo=github&logoColor=f5d98a" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_Developer-d4af37?style=for-the-badge&logo=react&logoColor=111111" />
 </p>
 
 <p align="center">
-  <em>Designing digital experiences and building practical, scalable products.</em>
+  <em style="color: #d4af37;">Crafting premium digital experiences with discipline, code, and design.</em>
 </p>
 
 ---
 
 ### About Me
-I’m a developer who enjoys turning ideas into clean, efficient, and visually polished software.  
-I focus on frontend engineering, backend logic, and product thinking that balances performance with usability.
+I build elegant, high-performance products with a focus on quality, clarity, and user experience.
+My work blends frontend design, backend architecture, and product thinking to create tools that feel polished and meaningful.
 
 ---
 
@@ -40,36 +40,36 @@ I focus on frontend engineering, backend logic, and product thinking that balanc
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radithyan2004-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=radithyan2004-stack&show_icons=true&theme=dark&title_color=f5d98a&icon_color=d4af37&text_color=f4efe8&bg_color=0b0b0b&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radithyan2004-stack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radithyan2004-stack&theme=dark&background=0b0b0b&border=0b0b0b&stroke=d4af37&ring=d4af37&fire=d4af37&currStreakNum=f5d98a&sideNums=f5d98a&currStreakLabel=f5d98a&sideLabels=f5d98a" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=radithyan2004-stack&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=radithyan2004-stack&theme=github-dark&bg_color=0b0b0b&color=d4af37&line=d4af37&point=f5d98a&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ### Current Focus
-- Building polished interfaces
-- Improving software architecture
-- Exploring modern web technologies
-- Turning ideas into usable products
+- Premium product design and UI refinement
+- Scalable frontend architecture
+- Full-stack delivery and performance optimization
+- Turning ideas into polished digital experiences
 
 ---
 
 ### Connect
 <p align="center">
   <a href="https://github.com/radithyan2004-stack">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=f5d98a" />
   </a>
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=f5d98a" />
   </a>
 </p>
