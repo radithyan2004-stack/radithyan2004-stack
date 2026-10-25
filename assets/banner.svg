@@ -2,25 +2,25 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="360" gradientUnits="userSpaceOnUse">
       <stop stop-color="#090909"/>
-      <stop offset="0.5" stop-color="#111111"/>
-      <stop offset="1" stop-color="#1b1a17"/>
+      <stop offset="0.38" stop-color="#101010"/>
+      <stop offset="1" stop-color="#171512"/>
     </linearGradient>
 
     <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#F5E9B6"/>
-      <stop offset="25%" stop-color="#E6C86E"/>
-      <stop offset="50%" stop-color="#D4AF37"/>
-      <stop offset="75%" stop-color="#B68A1C"/>
-      <stop offset="100%" stop-color="#F3D98A"/>
+      <stop offset="0%" stop-color="#F8F0D5"/>
+      <stop offset="20%" stop-color="#EAD48A"/>
+      <stop offset="45%" stop-color="#D7C58B"/>
+      <stop offset="70%" stop-color="#B68C3A"/>
+      <stop offset="100%" stop-color="#F0D899"/>
     </linearGradient>
 
-    <linearGradient id="steel" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#E5E7EB"/>
-      <stop offset="50%" stop-color="#9CA3AF"/>
-      <stop offset="100%" stop-color="#6B7280"/>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.05"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.04"/>
     </linearGradient>
 
-    <filter id="blurGlow" x="-30%" y="-30%" width="160%" height="160%">
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="18" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
@@ -31,43 +31,36 @@
 
   <rect width="1400" height="360" fill="url(#bg)"/>
 
-  <g opacity="0.92" filter="url(#blurGlow)">
-    <circle cx="210" cy="95" r="110" fill="#C9A24E">
-      <animate attributeName="cx" values="210;1180;210" dur="15s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="95;175;95" dur="12s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="980" cy="282" r="180" fill="#6B7280">
-      <animate attributeName="cx" values="980;260;980" dur="14s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="282;120;282" dur="10s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1185" cy="90" r="145" fill="#D4AF37">
-      <animate attributeName="cx" values="1185;1030;1185" dur="16s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="90;220;90" dur="13s" repeatCount="indefinite"/>
-    </circle>
+  <g opacity="0.82" filter="url(#softGlow)">
+    <path d="M-90 240C120 130 330 120 520 180C710 240 840 190 980 110C1110 35 1290 50 1480 100V360H-90V240Z" fill="url(#gold)" opacity="0.16">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 24 0; 0 0" dur="18s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-80 290C170 200 320 220 500 260C670 300 850 300 1060 245C1175 215 1280 185 1500 210V360H-80V290Z" fill="#D7C58B" opacity="0.10">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -30 0; 0 0" dur="22s" repeatCount="indefinite"/>
+    </path>
   </g>
 
-  <g opacity="0.26">
-    <path d="M0 285C180 252 245 208 400 220C560 232 640 304 790 300C960 296 1095 220 1400 245V360H0V285Z" fill="#171512"/>
+  <g opacity="0.7">
+    <rect x="62" y="56" width="1276" height="248" rx="22" fill="rgba(17,17,17,0.75)" stroke="rgba(215,197,139,0.2)"/>
+    <rect x="80" y="74" width="1240" height="212" rx="18" fill="url(#glass)"/>
   </g>
-
-  <rect x="52" y="52" width="1296" height="255" rx="22" fill="rgba(17,17,17,0.72)" stroke="rgba(212,175,55,0.28)"/>
 
   <g>
-    <text x="90" y="110" fill="#F4EFE8" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing="6">ADITHYAN</text>
-    <text x="90" y="165" fill="#F4EFE8" font-size="56" font-family="Segoe UI, Arial, sans-serif" font-weight="800" letter-spacing="2">ADITHYAN</text>
-    <text x="90" y="205" fill="url(#gold)" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Data Analyst &amp; Scientist | Machine Learning Specialist | Big Data | Hadoop &amp; Spark | AI Specialist | NLP | Computer Vision Engineer</text>
+    <text x="104" y="120" fill="#E9E0CB" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing="9">AI • DATA • RESEARCH</text>
+    <text x="104" y="198" fill="#F4EFE8" font-size="58" font-family="Segoe UI, Arial, sans-serif" font-weight="800" letter-spacing="2">ADITHYAN</text>
+    <text x="104" y="236" fill="url(#gold)" font-size="21" font-family="Segoe UI, Arial, sans-serif" font-weight="700">DATA ANALYST &amp; SCIENTIST | MACHINE LEARNING SPECIALIST | BIG DATA | HADOOP &amp; SPARK | NLP | COMPUTER VISION</text>
   </g>
 
-  <g transform="translate(1020 85)">
-    <rect x="0" y="0" width="270" height="120" rx="18" fill="rgba(20,20,20,0.82)" stroke="rgba(156,163,175,0.2)"/>
-    <circle cx="34" cy="32" r="10" fill="url(#steel)"/>
-    <text x="58" y="38" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Status</text>
-    <text x="30" y="84" fill="#F4EFE8" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Available for work</text>
+  <g opacity="0.85" transform="translate(980 85)">
+    <rect x="0" y="0" width="290" height="120" rx="16" fill="rgba(18,18,18,0.8)" stroke="rgba(255,255,255,0.08)"/>
+    <rect x="24" y="22" width="58" height="58" rx="14" fill="url(#gold)" opacity="0.12"/>
+    <text x="96" y="48" fill="#EDE3CF" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">AI / DATA</text>
+    <text x="96" y="82" fill="#D7C58B" font-size="16" font-family="Segoe UI, Arial, sans-serif" font-weight="600">Research driven</text>
   </g>
 
   <g opacity="0.9">
-    <path d="M90 322H1310" stroke="url(#gold)" stroke-width="2" stroke-linecap="round">
-      <animate attributeName="stroke-dasharray" values="0 1220; 450 770; 0 1220" dur="4.5s" repeatCount="indefinite"/>
+    <path d="M100 312H1300" stroke="url(#gold)" stroke-width="2" stroke-linecap="round">
+      <animate attributeName="stroke-dasharray" values="0 1200; 420 780; 0 1200" dur="5s" repeatCount="indefinite"/>
     </path>
   </g>
 </svg>
